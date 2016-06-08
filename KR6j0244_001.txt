@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:28:40.168433
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:39
 #+TITLE: 六字神呪王經
 #+PROPERTY: CBETA_ID T20n1045b
 #+PROPERTY: ID KR6j0244
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1045b
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0244_T_001-0041c> 
 #+PROPERTY: JUAN 1
 ¶
-
- 六字神呪王經¶
+六字神呪王經¶
 ¶
 開元拾遺失譯人名附梁錄¶
 
